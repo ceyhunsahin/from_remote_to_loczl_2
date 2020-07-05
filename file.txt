@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ceyhun sahin
+=======
+bu yaziyi remote uzerinde yazdik
+>>>>>>> 42556f7ad860259217a85793c6b5eca97290292c
